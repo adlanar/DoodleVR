@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 49e10343e04ebb9419a5425817e6a246
+timeCreated: 1491729804
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Get Schwifty
+  fontNames:
+  - Get Schwifty
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

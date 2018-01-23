@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 856fd35ac002b7747af43a17e1daeb86
+timeCreated: 1491729805
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 3 theHard way RMX
+  fontNames:
+  - 3 theHard way RMX
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

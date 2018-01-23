@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e5e638810599fdb42a39158f743dafde
+timeCreated: 1491729805
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rick_and_Morty
+  fontNames:
+  - Rick_and_Morty
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

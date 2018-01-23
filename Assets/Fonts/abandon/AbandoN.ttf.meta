@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9d9afee8eb8d35540b683a43232969ae
+timeCreated: 1491729805
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AbandoN
+  fontNames:
+  - AbandoN
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
